@@ -61,7 +61,7 @@ export default function Portfolio() {
               {/* Contact Links */}
               <div className="flex flex-wrap gap-4 mb-6">
                 <a
-                  href="mailto:swarajgaikwad017@gmail.com"
+                  href="mailto:swarajgaikwad01@gmail.com"
                   className="flex items-center gap-2 text-gray-700 hover:text-gray-900 transition-colors"
                 >
                   <Mail size={18} />
@@ -242,7 +242,7 @@ export default function Portfolio() {
               Ready to transform ideas into real-world applications.
             </p>
             <a
-              href="mailto:swarajgaikwad017@gmail.com"
+              href="mailto:swarajgaikwad019@gmail.com"
               className="mt-4 inline-flex items-center gap-2 px-6 py-3 bg-gray-900 text-white font-medium rounded-xl hover:bg-gray-800 transition-colors text-sm sm:text-lg"
             >
               <Mail size={20} />
