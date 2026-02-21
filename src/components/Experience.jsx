@@ -2,7 +2,7 @@ export default function Experience() {
   const experience = [
     {
       company: "Sofsyst Software-System Pvt Ltd",
-      role: "Web Development Intern",
+      role: "Web Dev Intern",
       abbr: "SS",
       color: "bg-emerald-600",
       points: [
