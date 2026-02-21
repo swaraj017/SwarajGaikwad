@@ -56,7 +56,7 @@ export default function Projects() {
                 </div>
               </div>
               <a href={p.link} target="_blank" rel="noopener noreferrer"
-                className="w-7 h-7 rounded-lg border border-slate-200 bg-white flex items-center justify-center text-slate-400">
+                className="w-7 h-7 rounded-lg border border-slate-200 bg-slate-800 flex items-center justify-center text-slate-400">
                 <ArrowUpRight size={12} />
               </a>
             </div>
